@@ -50,14 +50,14 @@ components.html(source_code, height = 500)
 
 st.text("DENSE LAYER 1")
 
-HtmlFile = open('./CONV_6.html', 'r', encoding='utf-8')
+HtmlFile = open('./Dense_1.html', 'r', encoding='utf-8')
 source_code = HtmlFile.read()
 print(source_code)
 components.html(source_code, height = 500)
 
 st.text("DENSE LAYER 2")
 
-HtmlFile = open('./CONV_7.html', 'r', encoding='utf-8')
+HtmlFile = open('./Dense_2.html', 'r', encoding='utf-8')
 source_code = HtmlFile.read()
 print(source_code)
 components.html(source_code, height = 500)
