@@ -1,8 +1,8 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-Dateipfad_Versuch3 = "C:/Users/Sebastian/Dropbox/10_FEP/04_Gruppe_KI/50_TSNE/TSNE_Daten_02_11/Versuch_3/"
-Dateipfad_Versuch4 = "C:/Users/Sebastian/Dropbox/10_FEP/04_Gruppe_KI/50_TSNE/TSNE_Daten_02_11/Versuch_4/"
+Dateipfad_Versuch3 = "./"
+Dateipfad_Versuch4 = "./200/"
 
 perplexity_list = [30, 200]
 
